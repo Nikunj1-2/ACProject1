@@ -1,0 +1,12 @@
+<suite name="OrangeHRM" parallel="tests">
+	<test name="Regression" allow-return-values="true">
+		<classes>
+			<class name="testlayer1.RunACmanage" />
+			<class name="testlayer1.Compile2" />
+			
+		</classes>
+		
+	</test>
+	
+
+</suite>
